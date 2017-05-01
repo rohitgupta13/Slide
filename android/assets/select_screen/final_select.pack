@@ -1,0 +1,66 @@
+
+final_select.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window3
+  rotate: false
+  xy: 1, 587
+  size: 770, 330
+  orig: 770, 330
+  offset: 0, 0
+  index: -1
+3x3
+  rotate: false
+  xy: 1, 85
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+4x4
+  rotate: false
+  xy: 503, 85
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+continue4
+  rotate: false
+  xy: 1, 1
+  size: 288, 82
+  orig: 288, 82
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 773, 858
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+
+final_select2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+5x5
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+6x6
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+8x8
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

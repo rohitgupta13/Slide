@@ -1,0 +1,54 @@
+
+slide_menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+slide
+  rotate: false
+  xy: 1, 380
+  size: 322, 94
+  orig: 322, 94
+  offset: 0, 0
+  index: -1
+sound_off
+  rotate: false
+  xy: 325, 377
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+sound_on
+  rotate: false
+  xy: 1, 281
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+music_off
+  rotate: false
+  xy: 109, 269
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+music_on
+  rotate: false
+  xy: 210, 269
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+play_down
+  rotate: false
+  xy: 1, 41
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+play_up
+  rotate: false
+  xy: 229, 1
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,82 @@
+
+game_screen_buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window
+  rotate: false
+  xy: 1, 476
+  size: 900, 500
+  orig: 900, 500
+  offset: 0, 0
+  index: -1
+back5
+  rotate: false
+  xy: 1, 290
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+home5
+  rotate: false
+  xy: 1, 104
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+no5
+  rotate: false
+  xy: 187, 290
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+retry5
+  rotate: false
+  xy: 187, 104
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+yes5
+  rotate: false
+  xy: 373, 290
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+backwhite
+  rotate: false
+  xy: 1, 1
+  size: 125, 101
+  orig: 125, 101
+  offset: 0, 0
+  index: -1
+music_off
+  rotate: false
+  xy: 903, 867
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+music_on
+  rotate: false
+  xy: 373, 179
+  size: 99, 109
+  orig: 99, 109
+  offset: 0, 0
+  index: -1
+sound_off
+  rotate: false
+  xy: 559, 377
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+sound_on
+  rotate: false
+  xy: 128, 5
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
