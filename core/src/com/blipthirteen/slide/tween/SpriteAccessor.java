@@ -30,5 +30,4 @@ public class SpriteAccessor implements TweenAccessor<Sprite> {
 			assert false;
 		}
 	}
-
 }

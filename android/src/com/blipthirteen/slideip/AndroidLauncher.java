@@ -1,4 +1,4 @@
-package com.blipthirteen.slide;
+package com.blipthirteen.slideip;
 
 import android.os.Bundle;
 

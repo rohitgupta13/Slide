@@ -1,8 +1,6 @@
 package com.blipthirteen.slide;
 
 import com.badlogic.gdx.Game;
-import com.blipthirteen.slide.screens.LayoutDemo;
-import com.blipthirteen.slide.screens.SelectScreen;
 import com.blipthirteen.slide.screens.SplashScreen;
 
 public class Slide extends Game {
