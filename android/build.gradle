@@ -18,7 +18,7 @@ android {
         exclude 'META-INF/robovm/ios/robovm.xml'
     }
     defaultConfig {
-        applicationId "com.blipthirteen.slide"
+        applicationId "com.blipthirteen.slideip"
         minSdkVersion 8
         targetSdkVersion 24
     }
@@ -71,7 +71,7 @@ task run(type: Exec) {
     }
 
     def adb = path + "/platform-tools/adb"
-    commandLine "$adb", 'shell', 'am', 'start', '-n', 'com.blipthirteen.slide/com.blipthirteen.slide.AndroidLauncher'
+    commandLine "$adb", 'shell', 'am', 'start', '-n', 'com.blipthirteen.slide/AndroidLauncher'
 }
 
 // sets up the Android Idea project, using the old Ant based build.
