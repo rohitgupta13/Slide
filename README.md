@@ -1,5 +1,5 @@
 # Slide Image Puzzle
-![Screenshot](https://blipthirteen.com/images/projects/slide/slide1.png)
+<img src="https://blipthirteen.com/images/projects/slide/slide1.png" alt="screenshot" height="400" />
 
 
 For a sliding puzzle to be solvable, **the number of swaps from the solved state should be even between the tiles**.
