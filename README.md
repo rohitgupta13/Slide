@@ -1,8 +1,8 @@
 # Slide Image Puzzle
-![Screenshot](/images/projects/slide/slide1.png)
+![Screenshot](https://blipthirteen.com/images/projects/slide/slide1.png)
 
 
-For a sliding puzzle to be solvable, **the number of swaps from the solve state should be even between the tiles should always be even**.
+For a sliding puzzle to be solvable, **the number of swaps from the solved state should be even between the tiles**.
 
 The snippet below shows a random generation for a 3x3 puzzle(aka 8 puzzle)
 ```
